@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "laravel/breeze": "^2.4"
+    },
+    "require": {
+        "stripe/stripe-php": "*",
+        "tightenco/ziggy": "^2.6"
+    }
+}
